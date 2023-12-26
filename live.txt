@@ -1,6 +1,6 @@
 泉州,#genre#
 泉州新闻频道,https://live.qztv.cn/live/news.m3u8?auth_key=1631166386-0-0-d5f3fdc68f9ca54e7dc06075299af491
-泉州新闻频道,https://live.qztv.cn/live/news.m3u8?auth_key=1622872971-0-0-27a6cbec7f0923772e932b1e26989379
+泉州闽南语频道,https://live.qztv.cn/live/mny.m3u8?auth_key=1631166562-0-0-821df1616d312b40147538ea37cde1b6
 
 港•澳•台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
