@@ -1,6 +1,26 @@
 泉州,#genre#
 泉州新闻频道,https://live.qztv.cn/live/news.m3u8?auth_key=1631166386-0-0-d5f3fdc68f9ca54e7dc06075299af491
 泉州闽南语频道,https://live.qztv.cn/live/mny.m3u8?auth_key=1631166562-0-0-821df1616d312b40147538ea37cde1b6
+泉州新闻频道,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
+泉州综合,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
+泉州,http://39.135.55.105:6610/PLTV/88888888/224/3221227165/index.m3u8?servicetype=1
+泉州综合频道,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227165/index.m3u8
+泉州1新闻,http://live1.setvn.com:9096/live/qz1_1200.m3u8
+泉州2都市,http://live1.setvn.com:9096/live/qz2_1200.m3u8
+泉州3影视,http://live1.setvn.com:9096/live/qz3_1200.m3u8
+泉州4闽南语,http://live1.setvn.com:9096/live/qz4_1200.m3u8
+泉州11,https://www.qztv.cn/585cfd26-702e-4e51-9a15-520c9317f23f
+泉州新闻,http://140.224.147.151:9999/rtp/239.61.2.193:9146
+泉州一套,rtsp://112.111.36.140/PLTV/88888909/224/3221225838/10000100000000060000000002442472_0.smil
+泉州新闻,rtp://239.255.40.172:8208
+泉州1台,http://live.qztvxwgj.com/live/news.m3u8
+泉州4台,http://live.qztvxwgj.com/live/mny.m3u8
+
+泉州电视台1-4套,#genre#
+泉州电视台1套,http://live2.setvn.com:9095/live/qz1_1200.m3u8
+泉州电视台2套,http://live2.setvn.com:9095/live/qz2_1200.m3u8
+泉州电视台3套,http://live2.setvn.com:9095/live/qz3_1200.m3u8
+泉州电视台4套,http://live2.setvn.com:9095/live/qz4_1200.m3u8
 
 港•澳•台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
